@@ -1,0 +1,8 @@
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+repository:
+  name: aries-fabric-wrapper
+  description: Enable SSI application to be developed on top of Hyperledger Fabric.
+  archived: true
+  private: false
